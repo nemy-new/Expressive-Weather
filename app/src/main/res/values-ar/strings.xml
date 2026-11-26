@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الطقس</string>
+    <string name="widget_name_compact">الطقس (مصغّر)</string>
+    <string name="widget_desc_compact">حالة الطقس ودرجة الحرارة الحالية مع العظمى والصغرى في بطاقة صغيرة أنيقة.</string>
+    <string name="widget_name_medium">الطقس والساعات القادمة (متوسط)</string>
+    <string name="widget_desc_medium">الأحوال الجوية الحالية وتوقعات الساعات الخمس القادمة بنظرة سريعة.</string>
+    <string name="widget_name_large">لوحة الطقس (كبير)</string>
+    <string name="widget_desc_large">لوحة معبّرة تعرض الأحوال الحالية وتوقعات الساعات القادمة والأيام السبعة المقبلة.</string>
+    <string name="widget_name_shape">الطقس (شكل Material)</string>
+    <string name="widget_desc_shape">تصميم بسيط بشكل عضوي على طراز Material 3 Expressive، يعرض درجة الحرارة الحالية وأيقونة الطقس.</string>
+    <string name="widget_name_radar">رادار الأمطار (Material You 4x2)</string>
+    <string name="widget_desc_radar">خريطة رادار مباشرة لهطول الأمطار بتصميم Material You، مع درجة الحرارة الحالية واتجاهات الساعات القادمة.</string>
+    <string name="widget_config_title">إعدادات الأداة</string>
+    <string name="widget_preview_city">طوكيو</string>
+    <string name="widget_preview_sunny">صافٍ</string>
+    <string name="widget_preview_now">الآن</string>
+    <string name="widget_preview_radar_live">17:10 مباشر</string>
+    <string name="widget_preview_d0">اليوم</string>
+    <string name="widget_preview_d1">غدًا</string>
+    <string name="widget_preview_d2">الإثنين</string>
+    <string name="widget_preview_d3">الثلاثاء</string>
+    <string name="widget_preview_d4">الأربعاء</string>
+    <string name="widget_preview_d5">الخميس</string>
+    <string name="widget_preview_d6">الجمعة</string>
+</resources>
